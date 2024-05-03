@@ -9,6 +9,7 @@
   "author": "Wallace Primo Freie Junior",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^16.4.5",
     "express": "^4.19.2",
     "http-status-codes": "^2.3.0",
     "ts-node": "^10.9.2"
